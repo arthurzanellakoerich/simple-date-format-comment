@@ -1,5 +1,3 @@
-package insta;
-
 public class Comment {
 
     private String text;
